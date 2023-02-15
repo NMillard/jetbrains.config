@@ -1,0 +1,50 @@
+{
+    "keymap": [
+        // "New Line"
+        {
+            "key": "ctrl-alt-n", "trigger": "new-folder"
+        },
+        {
+            "key": "ctrl-numpadenter", "trigger": "-new-line"
+        },
+        {
+            "key": "ctrl-return", "trigger": "-new-line"
+        },
+        {
+            "key": "shift-return", "trigger": "new-line"
+        },
+        {
+            "key": "shift-return", "trigger": "-wrap-line"
+        },
+        {
+            "key": "shift-return", "trigger": "-find-input-prev-occurrence"
+        },
+        {
+            "key": "ctrl-alt-return", "trigger": "-new-line-above"
+        },
+        {
+            "key": "ctrl-alt-numpadenter", "trigger": "-new-line-above"
+        },
+        {
+            "key": "ctrl-return", "trigger": "new-line-above"
+        },
+        {
+            "key": "alt-right", "trigger": "next-tab"
+        },
+        {
+            "key": "alt-left", "trigger": "prev-tab"
+        },
+        {
+            "key": "shift-ctrl-diaeresis", "trigger": "new-terminal"
+        },
+        {
+            "key": "ctrl-shift-graveaccent", "trigger": "-new-terminal"
+        },
+        {
+            "key": "ctrl-graveaccent", "trigger": "-jump-to-terminal"
+        },
+        {
+            "key": "ctrl-diaeresis", "trigger": "jump-to-terminal"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "terminal.caretShape": "Block",
+    "showShortcuts": true,
+    "terminal.profiles": [
+        {
+            "program": "C:/tools/Git/bin/sh.exe",
+            "args": ["--login", "-i"],
+            "name": "gitbash",
+        }
+    ],
+    "editor.fontSize": 15.0,
+    "terminal.fontSize": 14.0,
+    "zoomLevel": 0.9,
+    "theme": "dark"
+}
